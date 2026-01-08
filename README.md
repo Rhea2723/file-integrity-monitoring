@@ -60,7 +60,7 @@ file-integrity-monitoring/
 ├── README.md
 └── test_folder/
 
-````
+```
 
 ---
 
@@ -75,10 +75,8 @@ source .venv/bin/activate
 ### 2. Install dependencies
 
 ```bash
-python -m pip install watchdog
+    python -m pip install -r requirements.txt
 ```
-
----
 
 ## How to Use
 
