@@ -1,0 +1,11 @@
+{
+  "created_at": "2026-01-08T23:10:53+00:00",
+  "files": {
+    "/Users/rheasharma/Documents/File integrity monitoring/file-integrity-monitoring/test_folder/test.txt": {
+      "mtime": 1767913891.7710934,
+      "path": "/Users/rheasharma/Documents/File integrity monitoring/file-integrity-monitoring/test_folder/test.txt",
+      "sha256": "4a1e67f2fe1d1cc7b31d0ca2ec441da4778203a036a77da10344c85e24ff0f92",
+      "size": 12
+    }
+  }
+}
