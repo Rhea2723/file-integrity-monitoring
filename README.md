@@ -147,16 +147,4 @@ Each log entry includes:
 
 Rhea Sharma
 
-Built as a hands-on cybersecurity learning and portfolio project.
 
-```
-
----
-
-If you want next, I can:
-- Add **severity levels to the code**
-- Help you write **resume bullet points**
-- Help you **publish this on GitHub properly**
-
-Just tell me what you want to do next.
-```
